@@ -13,8 +13,36 @@ To built it you'll need :
 
 -1 x 10k trimpot
 
-capacitors : 
+•capacitors : 
 
 -1 x 1nF
 
 -1 x 10nF
+
+•resistors :
+
+-4 x 100k
+
+-2 x 10k
+
+-2 x 470
+
+-1 x 20k
+
+-1 x 5k6
+
+-1 x 470k
+
+-1 x 2k
+
+-1 x 680
+
+-1 x 1.5M
+
+LMNC schematics : 
+
+https://www.lookmumnocomputer.com/cem-3340-diy-simple
+
+Enjoy !
+
+
